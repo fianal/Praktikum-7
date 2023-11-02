@@ -1,5 +1,6 @@
 # Peftemuan 7
-
+# Made By Alfian Nur Rizki
+# NIM 312310665
 
 <h1>Fungsi If Angka Terbesar Dari 3 Angka</h1>
 
