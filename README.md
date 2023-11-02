@@ -1,4 +1,5 @@
-# labspy02
+# Peftemuan 7
+
 
 <h1>Fungsi If Angka Terbesar Dari 3 Angka</h1>
 
@@ -34,7 +35,7 @@
  + <p>Gunakan logika if dan else </p>
  + <p>Tampilan Program</p>
 
-![gambar](dokumentasi/lab2.1.png)
+![gambar](dokumentasi/lab2.1n.png)
 
 + <p>Tampilan Output</p>
 
