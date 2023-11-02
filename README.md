@@ -38,7 +38,7 @@
 
 + <p>Tampilan Output</p>
 
-![gambar](dokumentasi/
+![gambar](dokumentasi/pq(2).png)
 
 
 
