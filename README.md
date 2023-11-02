@@ -39,9 +39,46 @@
 
 + <p>Tampilan Output</p>
 
-![gambar](dokumentasi/pq(2).png)
+![gambar](dokumentasi/pq02.png)
 
+<h1>Lab 2 Latihan 2</h1>
 
++ <p>Buat program untuk mengurutkan data berdasarkan input sejumlah data</p>
++ <p>Kemudian tampilkan hasilnya secara berurutan</p>
++ <p>Buat integer input 3 variable</p>
++ <p>Gunakan list.sort untuk mengurutkan data yang di input</p>
++ <p>Tampilan Program</p>
 
+![gambar](dokumentasi/lab2.2.png)
 
++ <p>Tampilan Output</p>
+
+![gambar](dokumentasi/pqr.png) 
+
+<h1>Lab 3 Latihan 1</h1>
+
++ <p>Buat program perulangan dan bertingkat (nested) </p>
++ <p>Buat Variable Baris dan Kolom untuk data</p>
++ <p>Gunakan for untuk bar dan col lalu range </p>
++ <p>Lalu gunakan Tab untuk membuat bar+col lalu print</p>
++ <p>Tampilan program</p>
+
+![gambar](dokumentasi/lab3.1.png)
+
++ <p>Tampilan Output</p>
+
+![gambar](dokumentasi/barkol.png)
+
+<h1>Lab 3 Latihan 2</h1>
+
++ <p>Buat program bilangan acak yang lebih kecil dari 0,5</p>
++ <p>Nilai n diisi pada runtime</p>
++ <p>Gunakan kombinasi while dan for</p>
++ <p>Tampilan program</p>
+
+![gambar](dokumentasi/lab3.2.png)
+
++ <p>Tampilan Output</p>
+
+![gambar](dokumentasi/range.png)
 
